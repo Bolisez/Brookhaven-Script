@@ -11,9 +11,11 @@
   
 </div>
 
+<br>
 
 <div align="center"><a href="https://github.com"><img src="https://img.shields.io/badge/Download-blue?style=for-the-badge" height="80"></a></div>
 
+<br>
 
 > 🔲 Supported CPU: AMD & Intel
 >
